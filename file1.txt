@@ -1,1 +1,2 @@
 Updating file1.txt in the test-branch.
+Creating conflict - Apple
