@@ -1,2 +1,0 @@
-Updating file1.txt in the test-branch.
-Resolving conflict
